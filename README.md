@@ -1,4 +1,4 @@
 # project-1
-My First Git Reposittory
+My First Git Repository
 <br>
 Author - Aman Agrahari
